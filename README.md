@@ -13,10 +13,10 @@
 			<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge"/>
 		</a>
 	<br>
-    <a href="https://github.com/GuilhermeVieiraDev">
-        <img align="center" alt="Follow" src="https://img.shields.io/github/followers/GuilhermeVieiraDev?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF"
+    <a href="https://github.com/gabrielbrilha">
+        <img align="center" alt="Follow" src="https://img.shields.io/github/followers/gabrielbrilha?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF"
         />
-        <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=GuilhermeVieiraDev" />
+        <img align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=gabrielbrilha" />
     </a>
 </p>
 
@@ -45,16 +45,6 @@
 
 ### 📊 Stats
 <p align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeVieiraDev&show_icons=true&theme=dark&layout=compact">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbrilha&show_icons=true&theme=dark&layout=compact">
     <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeVieiraDev&theme=dark&layout=compact&langs_count=6"> -->
 </p>
-
-### ⭐ Top Repositories
-<div>
-	<a href="https://github.com/GuilhermeVieiraDev/GuilhermeVieiraDev">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GuilhermeVieiraDev&repo=GuilhermeVieiraDev&theme=algolia&show_owner=true" />
-	</a>
-	<!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=algolia&show_owner=true" />
-	</a> -->
-<div>
