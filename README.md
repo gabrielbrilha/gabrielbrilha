@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://discord.com/users/266656768715784192">
+    <a href="https://discord.com/users/458632075222974484">
         <img src="https://lanyard.cnrad.dev/api/458632075222974484" />
     </a>
     <br />
