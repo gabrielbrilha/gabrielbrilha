@@ -5,8 +5,6 @@
     <br />
 		<a href="https://discord.com/users/266656768715784192/">
 			<img src="https://img.shields.io/badge/Perfil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-
-
     <a href="https://github.com/gabrielbrilha">
         <img align="center" alt="Follow" src="https://img.shields.io/github/followers/gabrielbrilha?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF"
         />
