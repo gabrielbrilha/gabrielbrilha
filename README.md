@@ -11,7 +11,7 @@
 </p>
 
 ### 🤔 About me
-- 📝 Right now, I'm 17 years old, I love Computers and recently started to learn how to code. I really like Front-End related things and iOS Development!
+- 📝 Right now, I'm 18 years old, I love Computers and recently started to learn how to code. I really like Front-End related things and iOS Development!
 
 - 🎓 I'm currently studying Sciences and Technology at my local high school.
 
